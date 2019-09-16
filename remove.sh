@@ -1,0 +1,1 @@
+sed -ie "/$1/d" animals.txt
